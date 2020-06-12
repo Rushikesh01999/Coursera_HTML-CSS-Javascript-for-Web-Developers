@@ -9,13 +9,14 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: grey;
     border-radius: 0;
     border: 0;
 }
 
 #header-nav button {
     margin-top: 22px;
+    float: right;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
@@ -91,7 +92,7 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: yellow;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
